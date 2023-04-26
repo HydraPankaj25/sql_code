@@ -1,0 +1,1 @@
+SELECT SUM(total_amount) FROM orders table WHERE customer_id = 1;
